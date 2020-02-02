@@ -1,2 +1,2 @@
 # diit-pms
-A Patient Management System as an internship project at DIIT, based on AdminLTE.
+A lightweight Patient Management System as an internship project at DIIT, based on AdminLTE.
